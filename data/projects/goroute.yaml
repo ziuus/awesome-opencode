@@ -1,0 +1,4 @@
+name: GoRoute
+repo: https://github.com/ziuus/goroute
+tagline: Ultra-lightweight LLM gateway and multi-agent router in Go (<15MB RAM)
+description: Ultra-lightweight, zero-dependency LLM gateway written in Go. Features automatic multi-account round-robin and 429 failover, dual OpenAI/Anthropic protocol translation, and 1-click auto-configuration for OpenCode, Claude Code, Codex, and Cursor.
